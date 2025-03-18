@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RecursionSorting" />
+        <module name="RecursionStrings" />
+        <module name="Practice" />
+        <module name="TreesInterviewQuestions" />
+        <module name="KarpRabin" />
+        <module name="RecursionInterviewQuestions" />
+        <module name="RecursionEasy" />
+        <module name="BackTracking" />
+        <module name="AdvanceBinaryTreeQuestions" />
+        <module name="CyclicSortInterviewQuetions" />
+        <module name="LinearSearch" />
+        <module name="ObOrP" />
+        <module name="BitwiseOperators" />
+        <module name="RecursionArrays" />
+        <module name="Maths" />
+        <module name="HuffmanCoder" />
+        <module name="AdvanceSortingAlgorithm" />
+        <module name="BinarySearch" />
+        <module name="SqrtDecomposition" />
+        <module name="BinaryTreeInterviewQuestions" />
+        <module name="StackQueueQuestions" />
+        <module name="Heap" />
+        <module name="Sorting" />
+        <module name="PatternQuestions" />
+        <module name="FileHandling" />
+        <module name="RecursionPermutations" />
+        <module name="RecursionPatterns" />
+        <module name="BinaryTreeQuestions" />
+        <module name="Arrays" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LinkedList" target="21" />
+      <module name="LinkedListInterviewQuestions" target="21" />
+      <module name="OOP" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

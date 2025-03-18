@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Arrays/pom.xml" />
+        <option value="$PROJECT_DIR$/LinearSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/BinarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/PatternQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/BitwiseOperators/pom.xml" />
+        <option value="$PROJECT_DIR$/Maths/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionEasy/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionArrays/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionPatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionSorting/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionStrings/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionPermutations/pom.xml" />
+        <option value="$PROJECT_DIR$/RecursionQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/BackTracking/pom.xml" />
+        <option value="$PROJECT_DIR$/OOP/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/StackQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/TreesInterviewQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/FileHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/BinaryTreeInterviewQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/Heap/pom.xml" />
+        <option value="$PROJECT_DIR$/AdvanceSortingAlgorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/HuffmanCoder/pom.xml" />
+        <option value="$PROJECT_DIR$/SqrtDecomposition/pom.xml" />
+        <option value="$PROJECT_DIR$/AdvanceBinaryTreeQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/CyclicSortInterviewQuetions/pom.xml" />
+        <option value="$PROJECT_DIR$/BinaryTreeQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/KarpRabin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchInterviewQuestions/BinarySearchInterviewQuestions.iml" filepath="$PROJECT_DIR$/BinarySearchInterviewQuestions/BinarySearchInterviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programs.iml" filepath="$PROJECT_DIR$/.idea/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortInterviewQuestions/SortInterviewQuestions.iml" filepath="$PROJECT_DIR$/SortInterviewQuestions/SortInterviewQuestions.iml" />
+    </modules>
+  </component>
+</project>

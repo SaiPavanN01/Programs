@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AdvanceBinaryTreeQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvanceBinaryTreeQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvanceSortingAlgorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdvanceSortingAlgorithm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Arrays/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Arrays/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BackTracking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BackTracking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinaryTreeInterviewQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinaryTreeInterviewQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinaryTreeQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinaryTreeQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BitwiseOperators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BitwiseOperators/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CyclicSortInterviewQuetions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CyclicSortInterviewQuetions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FileHandling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FileHandling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HuffmanCoder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HuffmanCoder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KarpRabin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KarpRabin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinearSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinearSearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedListInterviewQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedListInterviewQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maths/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maths/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Practice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionArrays/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionArrays/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionEasy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionEasy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionPermutations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionPermutations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionSorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionSorting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionStrings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RecursionStrings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sorting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SqrtDecomposition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SqrtDecomposition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StackQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StackQuestions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TreesInterviewQuestions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TreesInterviewQuestions/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
