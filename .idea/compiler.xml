@@ -25,7 +25,6 @@
         <module name="AdvanceSortingAlgorithm" />
         <module name="BinarySearch" />
         <module name="SqrtDecomposition" />
-        <module name="BinaryTreeInterviewQuestions" />
         <module name="StackQueueQuestions" />
         <module name="Heap" />
         <module name="Sorting" />
@@ -38,6 +37,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BinaryTreeInterviewQuestions" target="21" />
       <module name="LinkedList" target="21" />
       <module name="LinkedListInterviewQuestions" target="21" />
       <module name="OOP" target="21" />
