@@ -6,12 +6,12 @@ pipeline{
         stages{
             stage('build'){
                 steps{
-                    echo "Building the application..."
+                    javac Main.java
                 }
             }
             stage('test'){
                 steps{
-                    echo "Testing the application"
+                    java Main
                 }
             }
             stage('deploy'){
