@@ -9,12 +9,12 @@ pipeline{
         stages{
             stage('build'){
                 steps{
-                    sh 'javac -d BinarySearch/src/main/java/io/pavan/CeilingNumber.java'
+                    sh 'javac -d BinarySearch/target/classes BinarySearch/src/main/java/io/pavan/CeilingNumber.java'
                 }
             }
             stage('test'){
                 steps{
-                    sh 'java -cp BinarySearch/target/classes/io.pavan.CeilingNumber'
+                    sh 'java -cp BinarySearch/target/classes io.pavan.CeilingNumber'
                 }
             }
             stage('deploy'){
