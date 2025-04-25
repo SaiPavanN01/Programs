@@ -22,8 +22,11 @@ public class CyclicSort {
         }
     }
     private static void swap(int[] arr, int start, int end){
-        arr[start] = arr[start]+arr[end];
-        arr[end]=arr[start]-arr[end];
-        arr[start]=arr[start]-arr[end];
+//        arr[start] = arr[start]+arr[end];
+//        arr[end]=arr[start]-arr[end];
+//        arr[start]=arr[start]-arr[end];
+        arr[start] = arr[start] ^ arr[end];
+        arr[end] = arr[start] ^ arr[end];
+        arr[start]= arr[start] ^ arr[end];
     }
 }
