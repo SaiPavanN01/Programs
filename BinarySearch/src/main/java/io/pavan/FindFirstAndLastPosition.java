@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class FindFirstAndLastPosition {
     public static void main(String[] args) {
         int[] arr={5,7,7,8,8,10};
-        int target=7;
+        int target=10;
         System.out.println(Arrays.toString(searchRange(arr,target)));
     }
     static int[] searchRange(int[] arr, int target){

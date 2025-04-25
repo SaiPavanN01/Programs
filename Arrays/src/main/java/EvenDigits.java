@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class EvenDigits {
     //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
     public static void main(String[] args) {
@@ -5,14 +8,15 @@ public class EvenDigits {
         System.out.println(findNumbers(nums));
 //        System.out.println(countDigits(4567));
     }
-    static int findNumbers(int[] nums){
+    static List<Integer> findNumbers(int[] nums){
+        List<Integer> result = new ArrayList<>();
         int count =0;
         for (int num = 0; num < nums.length; num++) {
             if(evenDigit(nums[num])){
-                count++;
+                result.add(nums[num]);
             }
         }
-        return count;
+        return result;
     }
     static boolean evenDigit(int num){
         return countDigits(num) % 2 == 0;

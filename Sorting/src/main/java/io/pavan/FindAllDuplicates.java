@@ -21,7 +21,7 @@ public class FindAllDuplicates {
                 i++;
         }
         for (int el = 0; el < arr.length; el++) {
-            if(el < arr.length-1 && arr[el]!=el+1)
+            if(arr[el]!=el+1)
                 duplicates.add(arr[el]);
         }
         return duplicates;

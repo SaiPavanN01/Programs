@@ -42,6 +42,7 @@ public class KthSmallestInBST {
         helper(node.right,heap,k);
     }
     */
+    // More Efficient
    private int k=0;
    private int ans;
     public int kthSmallest(TreeNode root, int k) {
