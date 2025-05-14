@@ -3,7 +3,7 @@ package io.pavan.TopoSort;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-// https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 
+// https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 public class DetectCycleInDirectedGraph_14 {
     boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adjList){
         Queue<Integer> q = new LinkedList<>();
